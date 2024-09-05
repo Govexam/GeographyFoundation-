@@ -1,0 +1,26 @@
+{
+  "videos": [
+    {
+      "title": "Introduction to Indian Geography",
+      "id": "pDK9NpG91cs"
+    },
+    {
+      "title": "Physical Geography of India",
+      "id": "anotherVideoId2"
+    },
+    {
+      "title": "Economic Geography of India",
+      "id": "anotherVideoId3"
+    }
+  ],
+  "pdfs": [
+    {
+      "title": "Indian Geography Basics",
+      "link": "https://example.com/indian_geography_basics.pdf"
+    },
+    {
+      "title": "Physical Geography of India",
+      "link": "https://example.com/physical_geography_india.pdf"
+    }
+  ]
+}
